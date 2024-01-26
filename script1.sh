@@ -1,3 +1,3 @@
 echo "We are learning DevOps"
 echo "We are learning Git"
-echo "Hi............"
+echo "We are Learning AWS"
